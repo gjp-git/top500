@@ -1,0 +1,500 @@
+1::沃尔玛(WAL-MART STORES)::C. Douglas McMillon::综合商业::本顿维尔,美国::485873.0::2300000
+2::国家电网公司(STATE GRID)::Kou Wei::公用设施::北京, 中国::315198.6::926067
+3::中国石油化工集团公司(SINOPEC GROUP)::Wang Yupu::炼油::北京, 中国::267518.0::713288
+4::中国石油天然气集团公司(CHINA NATIONAL PETROLEUM)::Zhang Jianhua::炼油::北京, 中国::262572.6::1512048
+5::丰田汽车公司(TOYOTA MOTOR)::Akio Toyoda::车辆与零部件::东京, 日本::254694.0::364445
+6::大众公司(VOLKSWAGEN)::Matthias Müller::车辆与零部件::沃尔夫斯堡, 德国::240263.8::626715
+7::荷兰皇家壳牌石油公司(ROYAL DUTCH SHELL)::Ben van Beurden::炼油::海牙, 荷兰::240033.0::89000
+8::伯克希尔－哈撒韦公司(BERKSHIRE HATHAWAY)::Warren E. Buffett::财产与意外保险（股份）::奥马哈, 美国::223604.0::367700
+9::苹果公司(APPLE)::Timothy D. Cook::计算机、办公设备::库佩蒂诺, 美国::215639.0::116000
+10::埃克森美孚(EXXON MOBIL)::Darren W. Woods::炼油::欧文, 美国::205004.0::72700
+11::麦克森公司(MCKESSON)::John H. Hammergren::批发：保健::弗朗西斯科,美国::198533.0::64500
+12::英国石油公司(BP)::Robert W. Dudley::炼油::伦敦市, 英国::186606.0::74500
+13::联合健康集团(UNITEDHEALTH GROUP)::Stephen J. Hemsley::保健：保险和管理医保::明尼苏达, 美国::184840.0::230000
+14::CVS Health公司(CVS HEALTH)::Larry J. Merlo::保健：药品和其他服务::文索基特, 美国::177526.0::204000
+15::三星电子(SAMSUNG ELECTRONICS)::Oh-Hyun Kwon::电子、电气设备::首尔, 韩国::173957.3::325000
+16::嘉能可(GLENCORE)::Ivan Glasenberg::采矿、原油生产::巴尔, 瑞士::173883.0::93123
+17::戴姆勒股份公司(DAIMLER)::Dieter Zetsche::车辆与零部件::斯图加特, 德国::169483.0::282488
+18::通用汽车公司(GENERAL MOTORS)::Mary T. Barra::车辆与零部件::底特律, 美国::166380.0::225000
+19::美国电话电报公司(AT&T;)::Randall L. Stephenson::电信::达拉斯, 美国::163786.0::268540
+20::EXOR集团(EXOR GROUP)::John Elkann::多元化金融::阿姆斯特丹, 荷兰::154893.6::302562
+21::福特汽车公司(FORD MOTOR)::James P. Hackett::车辆与零部件::迪尔伯恩,美国::151800.0::201000
+22::中国工商银行(INDUSTRIAL & COMMERCIAL BANK OF CHINA)::Gu Shu::银行：商业储蓄::北京, 中国::147675.1::461749
+23::美源伯根公司(AMERISOURCEBERGEN)::Steven H. Collis::批发：保健::切斯特, 美国::146849.7::18500
+24::中国建筑股份有限公司(CHINA STATE CONSTRUCTION ENGINEERING)::Guan Qing::工程与建筑::北京, 中国::144505.2::263915
+25::安盛(AXA)::Thomas Buberl::人寿与健康保险（股份）::巴黎, 法国::143722.3::97707
+26::亚马逊(AMAZON.COM)::Jeffrey P. Bezos::互联网服务和零售::西雅图, 美国::135987.0::341400
+27::鸿海精密工业股份有限公司(HON HAI PRECISION INDUSTRY)::Terry  Gou::电子、电气设备::台北, 中国::135128.8::726772
+28::中国建设银行(CHINA CONSTRUCTION BANK)::Wang  Hongzhang::银行：商业储蓄::北京, 中国::135093.3::362482
+29::本田汽车(HONDA MOTOR)::Takahiro Hachigo::车辆与零部件::东京, 日本::129198.4::211915
+30::道达尔公司(TOTAL)::Patrick Pouyanné::炼油::库尔贝瓦, 法国::127925.0::102168
+31::通用电气公司(GENERAL ELECTRIC)::Jeffrey R. Immelt::工业机械::波士顿,美国::126661.0::295000
+32::威瑞森电信(VERIZON COMMUNICATIONS)::Lowell C. McAdam::电信::纽约, 美国::125980.0::160900
+33::日本邮政控股公司(JAPAN POST HOLDINGS)::Masatsugu Nagato::人寿与健康保险（股份）::东京, 日本::122990.3::248384
+34::安联保险集团(ALLIANZ)::Oliver Bäte::财产与意外保险（股份）::慕尼黑, 德国::122195.9::140253
+35::康德乐(CARDINAL HEALTH)::George S. Barrett::批发：保健::都柏林, 美国::121546.0::37300
+36::好市多(COSTCO WHOLESALE)::W. Craig Jelinek::综合商业::伊萨夸, 美国::118719.0::172000
+37::沃博联(WALGREENS BOOTS ALLIANCE)::Stefano Pessina::食品店和杂货店::诺斯菲尔德, 美国::117351.0::300000
+38::中国农业银行(AGRICULTURAL BANK OF CHINA)::Zhao Huan::银行：商业储蓄::北京, 中国::117274.9::501368
+39::中国平安保险（集团）股份有限公司(PING AN INSURANCE)::Ma Mingzhe::人寿与健康保险（股份）::深圳, 中国::116581.1::318588
+40::克罗格(KROGER)::W. Rodney McMullen::食品店和杂货店::辛辛那提, 美国::115337.0::443000
+41::上海汽车集团股份有限公司(SAIC MOTOR)::Chen Zhixin::车辆与零部件::上海,中国::113860.8::97582
+42::中国银行(BANK OF CHINA)::Chen Siqing::银行：商业储蓄::北京, 中国::113708.2::308900
+43::法国巴黎银行(BNP PARIBAS)::Jean-Laurent Bonnafé::银行：商业储蓄::巴黎, 法国::109026.4::184839
+44::日产汽车(NISSAN MOTOR)::Hiroto Saikawa::车辆与零部件::东京, 日本::108164.1::137250
+45::雪佛龙(CHEVRON)::John S. Watson::炼油::圣雷蒙, 美国::107567.0::55200
+46::房利美(FANNIE MAE)::Timothy J. Mayopoulos::多元化金融::华盛顿, 美国::107162.0::7000
+47::中国移动通信集团公司(CHINA MOBILE COMMUNICATIONS)::Li Yue::电信::北京, 中国::107116.5::463712
+48::摩根大通公司(JPMORGAN CHASE & CO.)::James Dimon::银行：商业储蓄::纽约, 美国::105486.0::243355
+49::英国法通保险公司(LEGAL & GENERAL GROUP)::Nigel Wilson::人寿与健康保险（股份）::伦敦市, 英国::105234.8::8939
+50::日本电报电话公司(NIPPON TELEGRAPH & TELEPHONE)::Hiroo Unoura::电信::东京, 日本::105127.5::274844
+51::中国人寿保险（集团）公司(CHINA LIFE INSURANCE)::Yang Mingsheng::人寿与健康保险（股份）::北京,中国::104818.2::143676
+52::宝马集团(BMW GROUP)::Harald Krüger::车辆与零部件::慕尼黑, 德国::104129.7::124729
+53::美国快捷药方控股公司(EXPRESS SCRIPTS HOLDING)::Timothy C. Wentworth::保健：药品和其他服务::圣路易斯, 美国::100287.5::25600
+54::托克集团(TRAFIGURA GROUP)::Jeremy  Weir::贸易::阿姆斯特丹, 新加坡::98097.8::4107
+55::中国铁路工程总公司(CHINA RAILWAY ENGINEERING)::Zhang Zongyan::工程与建筑::北京, 中国::96978.5::292215
+56::英国保诚集团(PRUDENTIAL)::Michael A. Wells::人寿与健康保险（股份）::伦敦市, 英国::96965.2::23673
+57::意大利忠利保险公司(ASSICURAZIONI GENERALI)::Philippe R. Donnet::人寿与健康保险（股份）::的里雅斯特, 意大利::95216.6::73727
+58::中国铁道建筑总公司(CHINA RAILWAY CONSTRUCTION)::Meng Fengchao::工程与建筑::北京, 中国::94876.5::336872
+59::家得宝(HOME DEPOT)::Craig A. Menear::专业零售::亚特兰大, 美国::94595.0::406000
+60::波音(BOEING)::Dennis A. Muilenburg::航天与防务::芝加哥, 美国::94571.0::150540
+61::美国富国银行(WELLS FARGO)::Timothy J. Sloan::银行：商业储蓄::弗朗西斯科,美国::94176.0::269100
+62::美国银行(BANK OF AMERICA CORP.)::Brian T. Moynihan::银行：商业储蓄::夏洛特市, 美国::93662.0::208024
+63::俄罗斯天然气工业股份公司(GAZPROM)::Alexey B. Miller::能源::莫斯科, 俄罗斯::91382.4::467400
+64::雀巢公司(NESTLÉ)::Ulf Mark Schneider::食品：消费产品::韦威, 瑞士::90813.9::328000
+65::Alphabet公司(ALPHABET)::Larry Page::互联网服务和零售::山景城, 美国::90272.0::72053
+66::西门子(SIEMENS)::Josef Kaeser::工业机械::慕尼黑, 德国::88419.1::351000
+67::家乐福(CARREFOUR)::Georges Plassat::食品店和杂货店::布洛涅—比扬古, 法国::87111.9::384151
+68::东风汽车公司(DONGFENG MOTOR)::Li Shaozhu::车辆与零部件::武汉, 中国::86193.5::189795
+69::微软(MICROSOFT)::Satya Nadella::计算机软件::雷德蒙德, 美国::85320.0::114000
+70::Anthem公司(ANTHEM)::Joseph R. Swedish::保健：保险和管理医保::印第安纳波利斯, 美国::84863.0::53000
+71::日立(HITACHI)::Toshiaki Higashihara::电子、电气设备::东京,日本::84558.4::303887
+72::软银集团(SOFTBANK GROUP)::Masayoshi Son::电信::东京, 日本::82892.3::68402
+73::西班牙国家银行(BANCO SANTANDER)::José Antonio  Álvarez::银行：商业储蓄::马德里, 西班牙::82801.3::185606
+74::花旗集团(CITIGROUP)::Michael L. Corbat::银行：商业储蓄::纽约, 美国::82386.0::219000
+75::巴西国家石油公司(PETROBRAS)::Pedro Pullen Parente::炼油::里约热内卢, 巴西::81405.0::68829
+76::博世公司(ROBERT BOSCH)::Volkmar Denner::车辆与零部件::斯图加特, 德国::80869.4::389281
+77::德国电信(DEUTSCHE TELEKOM)::Timotheus Höttges::电信::波恩, 德国::80831.8::221000
+78::现代汽车(HYUNDAI MOTOR)::Mong-Koo Chung::车辆与零部件::首尔, 韩国::80701.4::129315
+79::美国康卡斯特电信公司(COMCAST)::Brian L. Roberts::电信::费城, 美国::80403.0::159000
+80::法国农业信贷银行(CRÉDIT AGRICOLE)::Philippe Brassac::银行：商业储蓄::巴黎, 法国::80257.8::70830
+81::国际商业机器公司(INTERNATIONAL BUSINESS MACHINES)::Virginia M. Rometty::信息技术服务::阿蒙克,美国::79919.0::414400
+82::法国电力公司(ÉLECTRICITÉ DE FRANCE)::Jean-Bernard Lévy::公用设施::巴黎, 法国::78739.5::154808
+83::华为投资控股有限公司(HUAWEI INVESTMENT & HOLDING)::Ren Zhengfei::网络、通讯设备::深圳, 中国::78510.8::180000
+84::意大利国家电力公司(ENEL)::Francesco  Starace::公用设施::罗马, 意大利::78063.9::62080
+85::州立农业保险公司(STATE FARM INSURANCE COS.)::Michael L. Tipsord::财产与意外保险（互助）::布卢明顿, 美国::76131.8::68234
+86::中国华润总公司(CHINA RESOURCES NATIONAL)::Luo Xi::制药::香港, 中国::75776.3::420572
+87::日本永旺集团(AEON)::Motoya Okada::综合商业::千叶, 日本::75772.0::274760
+88::汇丰银行控股公司(HSBC HOLDINGS)::Stuart T. Gulliver::银行：商业储蓄::伦敦市, 英国::75329.0::241000
+89::太平洋建设集团(PACIFIC CONSTRUCTION GROUP)::Yan Hao::工程与建筑::南京, 中国::74629.0::362128
+90::英杰华集团(AVIVA)::Mark Wilson::人寿与健康保险（股份）::伦敦市, 英国::74627.6::29530
+91::Uniper公司(UNIPER)::Klaus Schäfer::能源::杜塞尔多夫,德国::74406.8::12890
+92::乐购(TESCO)::David J. Lewis::食品店和杂货店::韦林花园城, 英国::74393.1::342770
+93::Engie集团(ENGIE)::Isabelle Kocher::能源::库尔贝瓦, 法国::73692.4::153090
+94::空中客车集团(AIRBUS GROUP)::Thomas Enders::航天与防务::莱顿, 荷兰::73628.3::133782
+95::SK集团(SK HOLDINGS)::Tae Won Chey::炼油::首尔, 韩国::72579.1::84000
+96::Phillips 66公司(PHILLIPS 66)::Greg C. Garland::炼油::洛杉矶, 美国::72396.0::14800
+97::强生(JOHNSON & JOHNSON)::Alex Gorsky::制药::新不伦瑞克, 美国::71890.0::126400
+98::宝洁公司(PROCTER & GAMBLE)::David S. Taylor::家居、个人用品::辛辛那提, 美国::71726.0::105000
+99::美国邮政(U.S. POSTAL SERVICE)::Megan J. Brennan::邮件、包裹及货物包装运输::华盛顿, 美国::71498.0::574349
+100::中国南方电网有限责任公司(CHINA SOUTHERN POWER GRID)::Li Qingkui::公用设施::广州, 中国::71241.5::302421
+101::中国南方工业集团公司(CHINA SOUTH INDUSTRIES GROUP)::Xu Liuping::航天与防务::北京,中国::71150.5::232817
+102::卢克石油公司(LUKOIL)::Vagit Y. Alekperov::炼油::莫斯科, 俄罗斯::70896.8::105500
+103::中国交通建设集团有限公司(CHINA COMMUNICATIONS CONSTRUCTION)::Liu Qitao::工程与建筑::北京, 中国::70750.8::152666
+104::法国BPCE银行集团(GROUPE BPCE)::François Pérol::银行：商业储蓄::巴黎, 法国::70516.5::102827
+105::索尼(SONY)::Kazuo Hirai::电子、电气设备::东京, 日本::70170.3::128400
+106::瓦莱罗能源公司(VALERO ENERGY)::Joseph W. Gorder::炼油::圣安东尼奥, 美国::70166.0::9996
+107::塔吉特公司(TARGET)::Brian C. Cornell::综合商业::明尼阿波利斯, 美国::69495.0::323000
+108::法国兴业银行(SOCIÉTÉ GÉNÉRALE)::Frédéric Oudéa::银行：商业储蓄::巴黎, 法国::69335.4::151341
+109::慕尼黑再保险公司(MUNICH RE GROUP)::Joachim Wenning::财产与意外保险（股份）::慕尼黑, 德国::68699.6::43428
+110::松下(PANASONIC)::Kazuhiro Tsuga::电子、电气设备::大阪, 日本::67774.9::257533
+111::日本生命保险公司(NIPPON LIFE INSURANCE)::Yoshinobu Tsutsui::人寿与健康保险（互助）::大阪,日本::67388.3::85171
+112::苏黎世保险集团(ZURICH INSURANCE GROUP)::Mario Greco::财产与意外保险（股份）::苏黎士, 瑞士::67245.0::52473
+113::伊塔乌联合银行控股公司(ITAÚ UNIBANCO HOLDING)::Cândido Botelho Bracher::银行：商业储蓄::圣保罗, 巴西::66876.3::94779
+114::中国人民保险集团股份有限公司(PEOPLE'S INSURANCE CO. OF CHINA)::Wu Yan::财产与意外保险（股份）::北京, 中国::66731.9::188570
+115::中国海洋石油总公司(CHINA NATIONAL OFFSHORE OIL)::Yang Hua::采矿、原油生产::北京, 中国::65891.7::100821
+116::丸红株式会社(MARUBENI)::Fumiya Kokubu::贸易::东京, 日本::65791.6::39952
+117::德国邮政(DEUTSCHE POST)::Frank Appel::邮件、包裹及货物包装运输::波恩, 德国::65786.8::459262
+118::房地美(FREDDIE MAC)::Donald H. Layton::多元化金融::麦克莱恩, 美国::65665.0::5982
+119::中国邮政集团公司(CHINA POST GROUP)::Li Guohua::邮件、包裹及货物包装运输::北京, 中国::65605.0::941211
+120::中国五矿集团公司(CHINA MINMETALS)::He Wenbo::金属产品::北京, 中国::65546.9::212406
+121::英国劳埃德银行集团(LLOYDS BANKING GROUP)::António Horta-Osório::银行：商业储蓄::伦敦市,英国::65208.1::70433
+122::美国劳氏公司(LOWE'S)::Robert A. Niblock::专业零售::穆尔斯维尔, 美国::65017.0::240000
+123::麦德龙(METRO)::Olaf  Koch::食品店和杂货店::杜塞尔多夫, 德国::64853.3::196540
+124::戴尔科技公司(DELL TECHNOLOGIES)::Michael S. Dell::计算机、办公设备::朗德罗克, 美国::64806.0::138000
+125::中国第一汽车集团公司(CHINA FAW GROUP)::Xu Ping::车辆与零部件::长春, 中国::64783.9::122323
+126::巴斯夫公司(BASF)::Kurt W. Bock::化学品::路德维希港, 德国::63641.4::109543
+127::JXTG控股有限公司(JXTG HOLDINGS)::Yukio Uchida::炼油::东京, 日本::63628.5::26247
+128::大都会人寿(METLIFE)::Steven A. Kandarian::人寿与健康保险（股份）::纽约, 美国::63476.0::58000
+129::天津物产集团有限公司(TEWOO GROUP)::Wang Yuzhu::贸易::天津, 中国::63324.2::17353
+130::安泰保险(AETNA)::Mark T. Bertolini::保健：保险和管理医保::哈特福德, 美国::63155.0::49500
+131::百事公司(PEPSICO)::Indra K. Nooyi::食品：消费产品::纽约,美国::62799.0::264000
+132::埃尼石油公司(ENI)::Claudio Descalzi::炼油::罗马, 意大利::62693.7::33536
+133::中国电信集团公司(CHINA TELECOMMUNICATIONS)::Yang Jie::电信::北京, 中国::62387.0::413536
+134::ADM公司(ARCHER DANIELS MIDLAND)::Juan R. Luciano::食品生产::芝加哥, 美国::62346.0::31800
+135::中国兵器工业集团公司(CHINA NORTH INDUSTRIES GROUP)::Yin Jiaxu::航天与防务::北京, 中国::61325.5::234771
+136::中粮集团有限公司(COFCO)::Yu Xubo::贸易::北京, 中国::61265.3::101708
+137::北京汽车集团(BEIJING AUTOMOTIVE GROUP)::Xu Heyi::车辆与零部件::北京, 中国::61129.5::134765
+138::联合包裹速递服务公司(UNITED PARCEL SERVICE)::David P. Abney::邮件、包裹及货物包装运输::亚特兰大, 美国::60906.0::335520
+139::安邦保险集团(ANBANG INSURANCE GROUP)::Wu Xiaohui::人寿与健康保险（互助）::北京, 中国::60799.8::40707
+140::标致(PEUGEOT)::Carlos Tavares::车辆与零部件::巴黎, 法国::59748.8::175341
+141::艾伯森公司(ALBERTSONS COS.)::Robert G. Miller::食品店和杂货店::博伊西,美国::59678.2::273000
+142::第一生命控股有限公司(DAI-ICHI LIFE HOLDINGS)::Seiji Inagaki::人寿与健康保险（股份）::东京, 日本::59589.7::62606
+143::中国中化集团公司(SINOCHEM GROUP)::Ning Gaoning::贸易::北京, 中国::59532.6::60576
+144::英特尔公司(INTEL)::Brian M. Krzanich::半导体、电子元件::圣克拉拉, 美国::59387.0::106000
+145::三菱商事株式会社(MITSUBISHI)::Takehiko Kakiuchi::贸易::东京, 日本::59303.2::77164
+146::欧尚集团(AUCHAN HOLDING)::Wilhelm Hubner::食品店和杂货店::克鲁瓦, 法国::58861.9::342709
+147::荷兰全球保险集团(AEGON)::Alexander R. Wynaendts::人寿与健康保险（股份）::海牙, 荷兰::58789.0::29380
+148::保德信金融集团(PRUDENTIAL FINANCIAL)::John R. Strangfeld::人寿与健康保险（股份）::纽瓦克, 美国::58779.0::49739
+149::沃达丰集团(VODAFONE GROUP)::Vittorio Colao::电信::纽伯里, 英国::58611.4::111556
+150::联合利华(UNILEVER)::Paul Polman::家居、个人用品::伦敦市, 英国/荷兰::58292.4::168832
+151::巴西银行(BANCO DO BRASIL)::Paulo Rogério Caffarelli::银行：商业储蓄::巴西利亚,巴西::58093.4::100622
+152::墨西哥石油公司(PEMEX)::José Antonio González Anaya::采矿、原油生产::墨西哥城, 墨西哥::57773.9::125689
+153::西班牙电话公司(TELEFÓNICA)::José María Álvarez-Pallete López::电信::马德里, 西班牙::57543.8::127323
+154::巴西布拉德斯科银行(BANCO BRADESCO)::Luiz Carlos Trabuco Cappi::银行：商业储蓄::奥萨斯库, 巴西::57442.7::94541
+155::联合技术公司(UNITED TECHNOLOGIES)::Gregory J. Hayes::航天与防务::法明顿, 美国::57244.0::201600
+156::安赛乐米塔尔(ARCELORMITTAL)::Lakshmi N. Mittal::金属产品::卢森堡, 卢森堡::56791.0::198517
+157::雷诺(RENAULT)::Carlos Ghosn::车辆与零部件::布洛涅—比扬古, 法国::56666.8::124849
+158::俄罗斯石油公司(ROSNEFT OIL)::Igor I. Sechin::炼油::莫斯科, 俄罗斯::56553.3::295800
+159::山东魏桥创业集团有限公司(SHANDONG WEIQIAO PIONEERING GROUP)::Zhang Shiping::纺织::滨州, 中国::56174.0::135393
+160::马拉松原油公司(MARATHON PETROLEUM)::Gary R. Heminger::炼油::芬德雷, 美国::55858.0::44460
+161::华特迪士尼公司(WALT DISNEY)::Robert A. Iger::娱乐::伯班克,美国::55632.0::195000
+162::中国航空工业集团公司(AVIATION INDUSTRY CORP. OF CHINA)::Tan Ruisong::航天与防务::北京, 中国::55306.2::457097
+163::荷兰国际集团(ING GROUP)::Ralph Hamers::银行：商业储蓄::阿姆斯特丹, 荷兰::55282.3::51943
+164::三菱日联金融集团(MITSUBISHI UFJ FINANCIAL GROUP)::Nobuyuki Hirano::银行：商业储蓄::东京, 日本::55185.3::115276
+165::皇家阿霍德德尔海兹集团(ROYAL AHOLD DELHAIZE)::Dick Boer::食品店和杂货店::赞丹, 荷兰::54955.0::225000
+166::哈门那公司(HUMANA)::Bruce D. Broussard::保健：保险和管理医保::路易斯维尔市, 美国::54379.0::51600
+167::Seven & I 控股公司(SEVEN & I HOLDINGS)::Ryuichi Isaka::食品店和杂货店::东京, 日本::53858.0::54712
+168::印度石油公司(INDIAN OIL)::Sanjiv Singh::炼油::新德里, 印度::53561.5::34999
+169::瑞士罗氏公司(ROCHE GROUP)::Severin Schwan::制药::巴塞尔, 瑞士::53427.2::94052
+170::海航集团(HNA GROUP)::Tan Xiangdong::航空::海口, 中国::53035.3::220258
+171::交通银行(BANK OF COMMUNICATIONS)::Niu Ximing::银行：商业储蓄::上海,中国::52989.6::95160
+172::中国中信集团有限公司(CITIC GROUP)::Chang Zhenming::多元化金融::北京, 中国::52852.0::201263
+173::辉瑞制药有限公司(PFIZER)::Ian C. Read::制药::纽约, 美国::52824.0::96500
+174::拜耳集团(BAYER)::Werner Baumann::制药::勒沃库森, 德国::52568.6::115170
+175::美国国际集团(AMERICAN INTERNATIONAL GROUP)::Brian Duperreault::财产与意外保险（股份）::纽约, 美国::52367.0::56400
+176::美洲电信(AMÉRICA MÓVIL)::Daniel Hajj Aboumrad::电信::墨西哥城, 墨西哥::52201.0::194193
+177::韩国电力公司(KOREA ELECTRIC POWER)::Hwan-Eik Cho::公用设施::首尔, 韩国::51500.4::43688
+178::洛克希德－马丁(LOCKHEED MARTIN)::Marillyn A. Hewson::航天与防务::贝塞斯达, 美国::50658.0::97000
+179::西斯科公司(SYSCO)::William J. DeLaney III::批发：食品::洛杉矶, 美国::50366.9::51900
+180::联邦快递(FEDEX)::Frederick W. Smith::邮件、包裹及货物包装运输::孟菲斯, 美国::50365.0::335767
+181::慧与公司(HEWLETT PACKARD ENTERPRISE)::Margaret C. Whitman::信息技术服务::帕洛阿尔托,美国::50123.0::195000
+182::路易达孚集团(LOUIS DREYFUS)::Gonzalo Ramírez Martiarena::食品生产::鹿特丹, 荷兰::49838.0::17407
+183::正威国际集团(AMER INTERNATIONAL GROUP)::Wang Wenyin::电子、电气设备::深圳, 中国::49676.7::17852
+184::马来西亚国家石油公司(PETRONAS)::Wan Zulkiflee Wan Ariffin::炼油::吉隆坡, 马来西亚::49478.7::51034
+185::东京电力公司(TOKYO ELECTRIC POWER)::Naomi Hirose::公用设施::东京, 日本::49446.4::42060
+186::诺华公司(NOVARTIS)::Joseph Jimenez::制药::巴塞尔, 瑞士::49436.0::118393
+187::思科公司(CISCO SYSTEMS)::Charles H. Robbins::网络、通讯设备::圣何塞, 美国::49247.0::73700
+188::MS&AD;保险集团控股有限公司(MS&AD; INSURANCE GROUP HOLDINGS)::Yasuyoshi Karasawa::财产与意外保险（股份）::东京, 日本::49238.8::40641
+189::德意志银行(DEUTSCHE BANK)::John Cryan::银行：商业储蓄::法兰克福, 德国::48876.2::99744
+190::中国电力建设集团有限公司(POWERCHINA)::Yan Zhiyong::工程与建筑::北京, 中国::48868.8::187813
+191::巴西JBS公司(JBS)::Wesley  Mendonça Batista::食品生产::圣保罗,巴西::48825.3::237061
+192::泰国国家石油有限公司(PTT)::Tevin Vongvanich::炼油::曼谷, 泰国::48719.1::24934
+193::东京海上日动火灾保险公司(TOKIO MARINE HOLDINGS)::Tsuyoshi Nagano::财产与意外保险（股份）::东京, 日本::48291.6::38842
+194::惠普公司(HP)::Dion J. Weisler::计算机、办公设备::帕洛阿尔托, 美国::48238.0::49000
+195::莱茵集团(RWE)::Rolf Martin Schmitz::公用设施::埃森, 德国::48203.8::58652
+196::陶氏化学(DOW CHEMICAL)::Andrew N. Liveris::化学品::米德兰, 美国::48158.0::56000
+197::Finatis公司(FINATIS)::Didier Lévêque::食品店和杂货店::巴黎, 法国::48154.0::232503
+198::西农(WESFARMERS)::Richard J.B. Goyder::食品店和杂货店::珀斯, 澳大利亚::48002.9::220000
+199::中国医药集团(SINOPHARM)::She Lulin::制药::北京, 中国::47809.7::106772
+200::法国国家人寿保险公司(CNP ASSURANCES)::Frédéric Lavenir::人寿与健康保险（股份）::巴黎, 法国::47804.3::5035
+201::LG电子(LG ELECTRONICS)::Seong-Jin Jo::电子、电气设备::首尔,韩国::47712.2::75000
+202::日本三井住友金融集团(SUMITOMO MITSUI FINANCIAL GROUP)::Takeshi Kunibe::银行：商业储蓄::东京, 日本::47374.6::77205
+203::信实工业公司(RELIANCE INDUSTRIES)::Mukesh D. Ambani::炼油::孟买, 印度::46930.7::140483
+204::中国宝武钢铁集团(CHINA BAOWU STEEL GROUP)::Ma Guoqiang::金属产品::上海, 中国::46606.2::169344
+205::来宝集团(NOBLE GROUP)::William J. Randall::贸易::香港, 中国::46528.3::1000
+206::百威英博(ANHEUSER-BUSCH INBEV)::Carlos Brito::饮料::鲁汶, 比利时::45905.0::206633
+207::挪威国家石油公司(STATOIL)::Eldar Saetre::炼油::斯塔万格, 挪威::45873.0::20539
+208::韩国浦项制铁公司(POSCO)::Oh-Joon Kwon::金属产品::首尔, 韩国::45620.5::31768
+209::起亚汽车(KIA MOTORS)::Hyoung-Keun Lee::车辆与零部件::首尔, 韩国::45425.0::51357
+210::Orange公司(ORANGE)::Stéphane Richard::电信::巴黎, 法国::45249.0::155202
+211::中国化工集团公司(CHEMCHINA)::Ren Jianxin::化学品::北京,中国::45177.2::110614
+212::德国联邦铁路公司(DEUTSCHE BAHN)::Richard Lutz::铁路运输::柏林, 德国::44849.8::306368
+213::德国大陆集团(CONTINENTAL)::Elmar Degenhart::车辆与零部件::汉诺威, 德国::44841.5::220137
+214::HCA公司(HCA HOLDINGS)::R. Milton Johnson::保健：医疗设施::纳什维尔, 美国::44747.0::210500
+215::日本伊藤忠商事株式会社(ITOCHU)::Masahiro Okafuji::贸易::大阪, 日本::44654.1::110207
+216::招商银行(CHINA MERCHANTS BANK)::Tian Huiyu::银行：商业储蓄::深圳, 中国::44551.8::70461
+217::印度国家银行(STATE BANK OF INDIA)::Arundhati Bhattacharya::银行：商业储蓄::孟买, 印度::44533.4::278872
+218::澳大利亚伍尔沃斯公司(WOOLWORTHS)::Brad Banducci::食品店和杂货店::贝拉维斯塔, 澳大利亚::43924.9::205000
+219::日本KDDI电信公司(KDDI)::Takashi Tanaka::电信::东京, 日本::43821.6::35032
+220::瑞士再保险股份有限公司(SWISS RE)::Christian Mumenthaler::财产与意外保险（股份）::苏黎士, 瑞士::43786.0::14053
+221::河钢集团(HBIS GROUP)::Yu Yong::金属产品::石家庄,中国::43768.9::125552
+222::中国华信能源有限公司(CEFC CHINA ENERGY)::Chan Chauto::能源::上海, 中国::43743.3::29637
+223::西班牙对外银行(BANCO BILBAO VIZCAYA ARGENTARIA)::Carlos Torres Vila::银行：商业储蓄::毕尔巴鄂, 西班牙::43697.5::134792
+224::蒂森克虏伯(THYSSENKRUPP)::Heinrich Hiesinger::金属产品::埃森, 德国::43589.0::156487
+225::圣戈班集团(SAINT-GOBAIN)::Pierre-André de Chalendar::建材、玻璃::库尔贝瓦, 法国::43230.8::172696
+226::联想集团(LENOVO GROUP)::Yang Yuanqing::计算机、办公设备::香港, 中国::43034.7::52000
+227::万喜集团(VINCI)::Xavier Huillard::工程与建筑::吕埃-马迈松, 法国::42770.8::183487
+228::新日铁住金(NIPPON STEEL & SUMITOMO METAL)::Kosei Shindo::金属产品::东京, 日本::42756.9::100169
+229::邦吉公司(BUNGE)::Soren W. Schroder::食品生产::白原市, 美国::42679.0::32000
+230::兴业银行(INDUSTRIAL BANK)::Tao Yiping::银行：商业储蓄::福州, 中国::42621.6::56236
+231::意昂集团(E.ON)::Johannes Teyssen::能源::埃森,德国::42213.4::43138
+232::俄罗斯联邦储蓄银行(SBERBANK)::Herman O. Gref::银行：商业储蓄::莫斯科, 俄罗斯::42159.4::325075
+233::中国船舶重工集团公司(CHINA SHIPBUILDING INDUSTRY)::Hu Wenming::工业机械::北京, 中国::42149.2::182129
+234::迪奥(CHRISTIAN DIOR)::Sidney Toledano::服装::巴黎, 法国::42112.8::120479
+235::可口可乐公司(COCA-COLA)::James B. Quincey::饮料::亚特兰大, 美国::41863.0::100300
+236::电装公司(DENSO)::Koji Arima::车辆与零部件::刈谷, 日本::41781.0::154493
+237::富士通(FUJITSU)::Tatsuya Tanaka::信息技术服务::东京, 日本::41619.9::155069
+238::广州汽车工业集团(GUANGZHOU AUTOMOBILE INDUSTRY GROUP)::Zeng Qinghong::车辆与零部件::广州, 中国::41560.4::75908
+239::丰益国际(WILMAR INTERNATIONAL)::Kuok Khoon Hong::食品生产::阿姆斯特丹, 新加坡::41401.7::90000
+240::赛诺菲(SANOFI)::Olivier Brandicourt::制药::巴黎, 法国::41376.3::113816
+241::中国联合网络通信股份有限公司(CHINA UNITED NETWORK COMMUNICATIONS)::Wang Xiaochu::电信::北京,中国::41273.9::253724
+242::住友生命保险公司(SUMITOMO LIFE INSURANCE)::Masahiro Hashimoto::人寿与健康保险（互助）::大阪, 日本::40920.8::42245
+243::美国纽约人寿保险公司(NEW YORK LIFE INSURANCE)::Theodore A. Mathas::人寿与健康保险（互助）::纽约, 美国::40786.6::11320
+244::Centene公司(CENTENE)::Michael F. Neidorff::保健：保险和管理医保::圣路易斯, 美国::40721.0::30500
+245::上海浦东发展银行股份有限公司(SHANGHAI PUDONG DEVELOPMENT BANK)::Gao Guofu::银行：商业储蓄::上海, 中国::40688.7::52832
+246::韩华集团(HANWHA)::Tae-Jong Lee::人寿与健康保险（股份）::首尔, 韩国::40605.5::49000
+247::印度塔塔汽车公司(TATA MOTORS)::Guenter Butschek::车辆与零部件::孟买, 印度::40329.2::79558
+248::中国铝业公司(ALUMINUM CORP. OF CHINA)::Yu Dehui::金属产品::北京, 中国::40278.0::121146
+249::三井物产株式会社(MITSUI)::Tatsuo Yasunaga::贸易::东京, 日本::40275.0::42316
+250::宏利金融(MANULIFE FINANCIAL)::Donald A. Guloien::人寿与健康保险（股份）::多伦多,奥特兰, 加拿大::40238.1::34500
+251::中国民生银行(CHINA MINSHENG BANKING)::Zheng Wanchun::银行：商业储蓄::北京,中国::40234.3::58720
+252::中国太平洋保险（集团）股份有限公司(CHINA PACIFIC INSURANCE (GROUP))::Huo Lianhong::人寿与健康保险（股份）::上海, 中国::40192.7::97032
+253::美国航空集团(AMERICAN AIRLINES GROUP)::W. Douglas Parker::航空::沃思堡, 美国::40180.0::122300
+254::美国全国保险公司(NATIONWIDE)::Stephen S. Rasmussen::财产与意外保险（互助）::哥伦布, 美国::40074.1::34320
+255::默沙东(MERCK)::Kenneth C. Frazier::制药::怀特豪斯, 美国::39807.0::68000
+256::信诺(CIGNA)::David M. Cordani::保健：保险和管理医保::布卢姆菲尔德, 美国::39668.0::41000
+257::达美航空(DELTA AIR LINES)::Edward H. Bastian::航空::亚特兰大, 美国::39639.0::83756
+258::百思买(BEST BUY)::Hubert B. Joly::专业零售::里奇菲尔德, 美国::39403.0::125000
+259::中国建材集团(CHINA NATIONAL BUILDING MATERIAL GROUP)::Song Zhiping::建材、玻璃::北京, 中国::39322.6::228448
+260::霍尼韦尔国际公司(HONEYWELL INTERNATIONAL)::Darius Adamczyk::电子、电气设备::莫里斯普兰斯, 美国::39302.0::131000
+261::京东(JD.COM)::Richard Qiangdong Liu::互联网服务和零售::北京,中国::39155.3::120622
+262::三菱电机股份有限公司(MITSUBISHI ELECTRIC)::Masaki Sakuyama::电子、电气设备::东京, 日本::39118.6::138700
+263::采埃孚(ZF FRIEDRICHSHAFEN)::Stefan Sommer::车辆与零部件::腓特烈港, 德国::38888.2::136820
+264::卡特彼勒(CATERPILLAR)::D. James Umpleby III::建筑和农业机械::皮奥里亚, 美国::38537.0::95400
+265::美国利宝互助保险集团(LIBERTY MUTUAL INSURANCE GROUP)::David H. Long::财产与意外保险（股份）::波士顿, 美国::38308.0::50000
+266::加拿大鲍尔集团(POWER CORP. OF CANADA)::Paul Desmarais Jr.::人寿与健康保险（股份）::蒙特利尔, 加拿大::38286.4::30259
+267::摩根士丹利(MORGAN STANLEY)::James P. Gorman::银行：商业储蓄::纽约, 美国::37949.0::55311
+268::恒力集团(HENGLI GROUP)::Chen Jianhua::纺织::苏州市, 中国::37879.7::61400
+269::南苏格兰电力(SSE)::Alistair Phillips-Davies::公用设施::珀斯, 英国::37813.0::21157
+270::万通互惠理财(MASSACHUSETTS MUTUAL LIFE INSURANCE)::Roger W. Crandall::人寿与健康保险（互助）::斯普林菲尔德, 美国::37788.0::11737
+271::高盛(GOLDMAN SACHS GROUP)::Lloyd C. Blankfein::银行：商业储蓄::纽约,美国::37712.0::34400
+272::江森自控国际公司(JOHNSON CONTROLS INTERNATIONAL)::Alex A. Molinaroli::工业机械::科克, 爱尔兰::37674.0::209000
+273::英国葛兰素史克公司(GLAXOSMITHKLINE)::Emma N. Walmsley::制药::布伦特福德, 英国::37641.8::99300
+274::中国华能集团公司(CHINA HUANENG GROUP)::Cao Peixi::能源::北京, 中国::37542.6::143691
+275::Energy Transfer Equity公司(ENERGY TRANSFER EQUITY)::John W. McReynolds::管道运输::达拉斯, 美国::37504.0::30992
+276::神华集团(SHENHUA GROUP)::Ling Wen::采矿、原油生产::北京, 中国::37321.5::202200
+277::绿地控股集团有限公司(GREENLAND HOLDING GROUP)::Zhang Yuliang::房地产::上海, 中国::37240.3::39887
+278::美国教师退休基金会(TIAA)::Roger W. Ferguson Jr.::人寿与健康保险（互助）::纽约, 美国::37105.4::12997
+279::怡和集团(JARDINE MATHESON)::Ben Keswick::车辆与零部件::香港, 中国::37051.0::430000
+280::甲骨文公司(ORACLE)::Safra A. Catz::计算机软件::雷德伍德城, 美国::37047.0::136000
+281::西班牙ACS集团(ACS)::Florentino Pérez Rodríguez::工程与建筑::马德里,西班牙::36992.2::117542
+282::住友商事(SUMITOMO)::Kuniharu Nakamura::贸易::东京, 日本::36888.0::70900
+283::泰森食品(TYSON FOODS)::Thomas P. Hayes::食品生产::斯普林代尔, 美国::36881.0::114000
+284::巴克莱(BARCLAYS)::James E. Staley::银行：商业储蓄::伦敦市, 英国::36788.8::119300
+285::意大利邮政集团(POSTE ITALIANE)::Matteo Del Fante::人寿与健康保险（股份）::罗马, 意大利::36616.8::136739
+286::英国森特理克集团(CENTRICA)::Iain C. Conn::公用设施::温莎, 英国::36579.6::38278
+287::美国联合大陆控股有限公司(UNITED CONTINENTAL HOLDINGS)::Oscar Munoz::航空::芝加哥, 美国::36556.0::88000
+288::好事达(ALLSTATE)::Thomas J. Wilson::财产与意外保险（股份）::诺斯布鲁克, 美国::36534.0::43275
+289::印尼国家石油公司(PERTAMINA)::Elia Massa Manik::炼油::雅加达, 印度尼西亚::36486.7::27227
+290::麦格纳国际(MAGNA INTERNATIONAL)::Donald J. Walker::车辆与零部件::奥罗拉, 加拿大::36445.0::155450
+291::瑞银集团(UBS GROUP)::Sergio P. Ermotti::银行：商业储蓄::苏黎士,瑞士::36229.5::59387
+292::意大利联合圣保罗银行(INTESA SANPAOLO)::Carlo Messina::银行：商业储蓄::都灵, 意大利::36225.3::89126
+293::加拿大乔治威斯顿公司(GEORGE WESTON)::Galen G. Weston::食品店和杂货店::多伦多,奥特兰, 加拿大::36211.1::195000
+294::日本三菱重工业股份有限公司(MITSUBISHI HEAVY INDUSTRIES)::Shunichi Miyanaga::工业机械::东京, 日本::36122.4::82728
+295::Rajesh Exports公司(RAJESH EXPORTS)::Rajesh J. Mehta::贸易::班加罗尔, 印度::36113.9::328
+296::和硕(PEGATRON)::Syh-Jang Liao::计算机、办公设备::台北, 中国::35891.2::196251
+297::日本明治安田生命保险公司(MEIJI YASUDA LIFE INSURANCE)::Akio Negishi::人寿与健康保险（互助）::东京, 日本::35766.6::41872
+298::马士基集团(MAERSK GROUP)::Søren Skou::船务::哥本哈根, 丹麦::35464.0::87736
+299::沙特基础工业公司(SABIC)::Yousef Abdullah Al-Benyan::化学品::利雅得, 沙特阿拉伯::35421.0::35000
+300::法国布伊格集团(BOUYGUES)::Martin Bouygues::工程与建筑::巴黎, 法国::35276.5::117997
+301::沃尔沃集团(VOLVO)::Martin Lundstedt::车辆与零部件::哥德堡,瑞典::35268.6::89477
+302::Talanx公司(TALANX)::Herbert K. Haas::财产与意外保险（股份）::汉诺威, 德国::35100.6::20039
+303::汉莎集团(LUFTHANSA GROUP)::Carsten Spohr::航空::科隆, 德国::35011.1::107276
+304::加拿大皇家银行(ROYAL BANK OF CANADA)::David I. McKay::银行：商业储蓄::多伦多,奥特兰, 加拿大::34903.9::75510
+305::埃森哲(ACCENTURE)::Pierre Nanterme::信息技术服务::都柏林, 爱尔兰::34797.7::384000
+306::雷普索尔公司(REPSOL)::Josu Jon Imaz San Miguel::炼油::马德里, 西班牙::34484.7::24396
+307::万科企业股份有限公司(CHINA VANKE)::Yu Liang::房地产::深圳, 中国::34458.0::58280
+308::大众超级市场公司(PUBLIX SUPER MARKETS)::Randall T. Jones Sr.::食品店和杂货店::累克兰, 美国::34274.1::191000
+309::德国艾德卡公司(EDEKA ZENTRALE)::Markus Mosa::批发：食品::汉堡, 德国::34193.0::351500
+310::森宝利(J. SAINSBURY)::Michael  Coupe::食品店和杂货店::伦敦市, 英国::34148.8::118700
+311::Alimentation Couche-Tard公司(ALIMENTATION COUCHE-TARD)::Brian P. Hannasch::食品店和杂货店::魁北克,加拿大::34144.6::105000
+312::中国能源建设集团有限公司(CHINA ENERGY ENGINEERING GROUP)::Wang Jianping::工程与建筑::北京, 中国::33929.8::169173
+313::韩国现代重工集团(HYUNDAI HEAVY INDUSTRIES)::Hwan-Goo Kang::工业机械::蔚山, 韩国::33881.4::30767
+314::瑞士ABB集团(ABB)::Ulrich Spiesshofer::工业机械::苏黎士, 瑞士::33828.0::132300
+315::美国运通公司(AMERICAN EXPRESS)::Kenneth I. Chenault::多元化金融::纽约, 美国::33823.0::56400
+316::力拓集团(RIO TINTO GROUP)::Jean-Sébastien Jacques::采矿、原油生产::伦敦市, 英国::33781.0::51029
+317::SNCF Mobilités公司(SNCF MOBILITÉS)::Guillaume Pepy::铁路运输::圣丹尼, 法国::33747.1::193718
+318::中国中车股份有限公司(CRRC)::Liu Hualong::工业机械::北京, 中国::33738.7::183061
+319::长江和记实业有限公司(CK HUTCHISON HOLDINGS)::Li Tzar Kuoi, Victor::专业零售::香港, 中国::33475.0::290000
+320::冀中能源集团(JIZHONG ENERGY GROUP)::Yang GuoZhan::采矿、原油生产::邢台, 中国::33365.5::127298
+321::TJX公司(TJX)::Ernie L. Herrman::专业零售::弗雷明汉,美国::33183.7::235000
+322::新兴际华集团(XINXING CATHAY INTERNATIONAL GROUP)::Liu Mingzhong::金属产品::北京, 中国::33173.8::59429
+323::现代摩比斯公司(HYUNDAI MOBIS)::Young-Deuk Lim::车辆与零部件::首尔, 韩国::32971.8::29499
+324::爱信精机(AISIN SEIKI)::Yasumori Ihara::车辆与零部件::刈谷, 日本::32879.4::99389
+325::来德爱(RITE AID)::John T. Standley::食品店和杂货店::坎普希尔, 美国::32845.1::70430
+326::陕西延长石油（集团）有限责任公司(SHAANXI YANCHANG PETROLEUM (GROUP))::He Jiuchang::采矿、原油生产::西安, 中国::32652.3::134134
+327::德国中央合作银行(DZ BANK)::Wolfgang Kirsch::银行：商业储蓄::法兰克福, 德国::32635.7::28264
+328::联合信贷集团(UNICREDIT GROUP)::Jean Pierre Mustier::银行：商业储蓄::米兰, 意大利::32538.9::117659
+329::中国光大集团(CHINA EVERBRIGHT GROUP)::Tang Shuangning::银行：商业储蓄::北京, 中国::32460.5::61400
+330::大和房建(DAIWA HOUSE INDUSTRY)::Takeo Higuchi::工程与建筑::大阪, 日本::32420.6::60539
+331::耐克公司(NIKE)::Mark G. Parker::服装::比佛顿,美国::32376.0::70700
+332::Iberdrola公司(IBERDROLA)::José Ignacio Sánchez Galán::公用设施::毕尔巴鄂, 西班牙::32307.7::28389
+333::澳洲联邦银行(COMMONWEALTH BANK OF AUSTRALIA)::Ian M. Narev::银行：商业储蓄::悉尼, 澳大利亚::32286.9::45129
+334::中国机械工业集团有限公司(SINOMACH)::Ren Hongbin::工业机械::北京, 中国::32237.0::115390
+335::费森尤斯集团(FRESENIUS)::Stephan Sturm::保健：医疗设施::巴登洪堡, 德国::32161.3::232873
+336::中国航天科技集团公司(CHINA AEROSPACE SCIENCE & TECHNOLOGY)::Lei Fanpei::航天与防务::北京, 中国::32093.8::170357
+337::陕西煤业化工集团(SHAANXI COAL & CHEMICAL INDUSTRY)::Yang Zhaoqian::采矿、原油生产::西安, 中国::31926.0::123559
+338::中国恒大集团(CHINA EVERGRANDE GROUP)::Hui Kayan::房地产::广州, 中国::31828.0::89250
+339::江西铜业集团公司(JIANGXI COPPER)::Li Baomin::采矿、原油生产::贵溪, 中国::31679.8::25460
+340::损保控股有限公司(SOMPO HOLDINGS)::Kengo Sakurada::财产与意外保险（股份）::东京, 日本::31558.8::47430
+341::中国保利集团(CHINA POLY GROUP)::Zhang Zhengao::房地产::北京,中国::31508.3::76425
+342::安达保险公司(CHUBB)::Evan G. Greenberg::财产与意外保险（股份）::苏黎士, 瑞士::31469.0::31000
+343::浙江吉利控股集团(ZHEJIANG GEELY HOLDING GROUP)::Li Shufu::车辆与零部件::杭州, 中国::31429.8::60712
+344::Exelon公司(EXELON)::Christopher M. Crane::公用设施::芝加哥, 美国::31360.0::34396
+345::通用动力(GENERAL DYNAMICS)::Phebe N. Novakovic::航天与防务::福尔斯彻奇, 美国::31353.0::98800
+346::英国电信集团(BT GROUP)::Gavin E. Patterson::电信::伦敦市, 英国::31333.4::106400
+347::佳能(CANON)::Fujio Mitarai::计算机、办公设备::东京, 日本::31271.0::197673
+348::物产中大集团(WUCHAN ZHONGDA GROUP)::Wang Tingge::贸易::杭州, 中国::31185.0::18150
+349::三菱化学控股(MITSUBISHI CHEMICAL HOLDINGS)::Hitoshi Ochi::化学品::东京, 日本::31157.6::69291
+350::必和必拓(BHP BILLITON)::Andrew Mackenzie::采矿、原油生产::墨尔本, 澳大利亚::30912.0::26827
+351::多伦多道明银行(TORONTO-DOMINION BANK)::Bharat B. Masrani::银行：商业储蓄::多伦多,奥特兰,加拿大::30854.9::81233
+352::斯巴鲁公司(SUBARU)::Yasuyuki Yoshinaga::车辆与零部件::东京, 日本::30695.5::36668
+353::普利司通(BRIDGESTONE)::Masaaki Tsuya::车辆与零部件::东京, 日本::30678.3::143616
+354::瑞士信贷(CREDIT SUISSE GROUP)::Tidjane Thiam::银行：商业储蓄::苏黎士, 瑞士::30588.0::47170
+355::中国航天科工集团公司(CHINA AEROSPACE SCIENCE & INDUSTRY)::Gao Hongwei::航天与防务::北京, 中国::30581.9::148682
+356::日本钢铁工程控股公司(JFE HOLDINGS)::Eiji Hayashida::金属产品::东京, 日本::30538.6::60439
+357::日本瑞穗金融集团(MIZUHO FINANCIAL GROUP)::Yasuhiro Sato::银行：商业储蓄::东京, 日本::30390.1::59179
+358::Gilead Sciences公司(GILEAD SCIENCES)::John F. Milligan::制药::福斯特城, 美国::30390.0::9000
+359::CHS公司(CHS)::Jay D. Debertin::食品生产::因弗格罗韦海茨, 美国::30347.2::12157
+360::巴拉特石油公司(BHARAT PETROLEUM)::D. Rajkumar::炼油::孟买, 印度::30316.0::13395
+361::3M公司(3M)::Inge G. Thulin::其他::圣保罗市,美国::30109.0::91584
+362::中国电子信息产业集团有限公司(CHINA ELECTRONICS)::Rui Xiaowu::电子、电气设备::北京, 中国::30009.7::144659
+363::CRH公司(CRH)::Albert Manifold::建材、玻璃::都柏林, 爱尔兰::29972.8::86778
+364::中国船舶工业集团公司(CHINA STATE SHIPBUILDING)::Wu Qiang::工业机械::北京, 中国::29876.8::68025
+365::江苏沙钢集团(JIANGSU SHAGANG GROUP)::Shen Wenrong::金属产品::张家港, 中国::29862.2::35133
+366::中国远洋海运集团有限公司(CHINA COSCO SHIPPING)::Xu Lirong::船务::上海, 中国::29743.1::106478
+367::马自达汽车株式会社(MAZDA MOTOR)::Masamichi Kogai::车辆与零部件::广岛, 日本::29665.3::48849
+368::国家电力投资集团公司(STATE POWER INVESTMENT)::Wang Binghua::能源::北京, 中国::29493.4::127343
+369::台积电(TAIWAN SEMICONDUCTOR MANUFACTURING)::Mark Liu::半导体、电子元件::新竹, 中国::29387.9::46968
+370::巴西淡水河谷公司(VALE)::Fabio Schvartsman::采矿、原油生产::里约热内卢, 巴西::29363.0::73062
+371::时代华纳(TIME WARNER)::Jeffrey L. Bewkes::娱乐::纽约,美国::29318.0::25000
+372::山东能源集团有限公司(SHANDONG ENERGY GROUP)::Li Weimin::采矿、原油生产::济南, 中国::29298.6::179689
+373::铃木汽车(SUZUKI MOTOR)::Toshihiro Suzuki::车辆与零部件::滨松, 日本::29251.6::62992
+374::利安德巴塞尔工业公司(LYONDELLBASELL INDUSTRIES)::Bhavesh V. Patel::化学品::鹿特丹, 荷兰::29183.0::13000
+375::荷兰皇家飞利浦公司(ROYAL PHILIPS)::Frans A. van Houten::医疗器材和设备::阿姆斯特丹, 荷兰::29003.0::114731
+376::特许通讯公司(CHARTER COMMUNICATIONS)::Thomas M. Rutledge::电信::斯坦福德, 美国::29003.0::91500
+377::美敦力公司(MEDTRONIC)::Omar S. Ishrak::医疗器材和设备::都柏林, 爱尔兰::28833.0::98017
+378::西北互助人寿保险公司(NORTHWESTERN MUTUAL)::John E. Schlifske::人寿与健康保险（互助）::密尔沃基, 美国::28799.0::5646
+379::欧莱雅(L'ORÉAL)::Jean-Paul Agon::家居、个人用品::克里希, 法国::28571.8::89331
+380::大连万达集团(DALIAN WANDA GROUP)::Wang Jianlin::房地产::北京, 中国::28482.8::155905
+381::Medipal控股公司(MEDIPAL HOLDINGS)::Shuichi Watanabe::批发：保健::东京,日本::28276.7::15745
+382::中国华电集团公司(CHINA HUADIAN)::Zhao Jianguo::公用设施::北京, 中国::28204.3::107000
+383::友邦保险(AIA GROUP)::Ng Keng Hooi::人寿与健康保险（股份）::香港, 中国::28196.0::20000
+384::印度斯坦石油公司(HINDUSTAN PETROLEUM)::Mukesh Kumar  Surana::炼油::孟买, 印度::28165.5::10422
+385::Migros集团(MIGROS GROUP)::Herbert Bolliger::食品店和杂货店::苏黎士, 瑞士::28154.9::77704
+386::法国航空－荷兰皇家航空集团(AIR FRANCE-KLM GROUP)::Jean-Marc Janaillac::航空::巴黎, 法国::27920.4::82175
+387::金巴斯集团(COMPASS GROUP)::Richard J. Cousins::食品：饮食服务业::彻特西, 英国::27837.3::527180
+388::斯伦贝谢公司(SCHLUMBERGER)::Paal Kibsgaard::油气设备与服务::洛杉矶, 美国::27810.0::100000
+389::关西电力(KANSAI ELECTRIC POWER)::Shigeki Iwane::公用设施::大阪, 日本::27791.6::32666
+390::广达电脑(QUANTA COMPUTER)::Barry Lam::计算机、办公设备::桃园, 中国::27715.1::92698
+391::西太平洋银行(WESTPAC BANKING)::Brian C. Hartzer::银行：商业储蓄::悉尼,澳大利亚::27704.4::35280
+392::Coop集团(COOP GROUP)::Joos Sutter::食品店和杂货店::巴塞尔, 瑞士::27668.7::73451
+393::Facebook公司(FACEBOOK)::Mark Zuckerberg::互联网服务和零售::门罗帕克, 美国::27638.0::17048
+394::Travelers Cos.公司(TRAVELERS COS.)::Alan D. Schnitzer::财产与意外保险（股份）::纽约, 美国::27625.0::30900
+395::第一资本金融公司(CAPITAL ONE FINANCIAL)::Richard D. Fairbank::银行：商业储蓄::麦克莱恩, 美国::27519.0::47300
+396::二十一世纪福克斯(TWENTY-FIRST CENTURY FOX)::James R. Murdoch::娱乐::纽约, 美国::27326.0::21500
+397::中国国电集团公司(CHINA GUODIAN)::Qiao Baoping::能源::北京, 中国::27315.1::124056
+398::LafargeHolcim公司(LAFARGEHOLCIM)::Eric Olsen::建材、玻璃::乔纳, 瑞士::27308.4::90903
+399::施耐德电气(SCHNEIDER ELECTRIC)::Jean-Pascal Tricoire::电子、电气设备::吕埃-马迈松, 法国::27306.6::143901
+400::中国电子科技集团公司(CHINA ELECTRONICS TECHNOLOGY GROUP)::Xiong Qun Li::航天与防务::北京, 中国::27291.7::158064
+401::联合服务汽车协会(UNITED SERVICES AUTOMOBILE ASSN.)::Stuart Parker::财产与意外保险（股份）::圣安东尼奥,美国::27131.1::29943
+402::全球燃料服务公司(WORLD FUEL SERVICES)::Michael J. Kasbar::能源::迈阿密, 美国::27015.8::5000
+403::PHOENIX PHARMAHANDEL公司(PHOENIX PHARMAHANDEL)::Oliver Windholz::批发：保健::曼海姆, 德国::26976.1::26611
+404::法国威立雅环境集团(VEOLIA ENVIRONNEMENT)::Antoine Frérot::公用设施::巴黎, 法国::26971.8::156225
+405::澳大利亚国民银行(NATIONAL AUSTRALIA BANK)::Andrew G. Thorburn::银行：商业储蓄::多克兰兹, 澳大利亚::26957.7::34263
+406::菲利普－莫里斯国际公司(PHILIP MORRIS INTERNATIONAL)::André Calantzopoulos::烟草::纽约, 美国::26685.0::79500
+407::迪尔公司(DEERE)::Samuel R. Allen::建筑和农业机械::莫林, 美国::26644.0::56767
+408::东日本旅客铁道株式会社(EAST JAPAN RAILWAY)::Tetsuro Tomita::铁路运输::东京, 日本::26586.9::85834
+409::Achmea公司(ACHMEA)::Willem A.J. van Duin::人寿与健康保险（互助）::泽斯特, 荷兰::26493.8::14921
+410::卡夫亨氏公司(KRAFT HEINZ)::Bernardo Hees::食品：消费产品::匹兹堡, 美国::26487.0::41000
+411::国泰人寿保险股份有限公司(CATHAY LIFE INSURANCE)::Ming-Ho Hsiung::人寿与健康保险（股份）::台北,中国::26291.7::36578
+412::Tech Data公司(TECH DATA)::Robert M. Dutkowsky::批发：电子、办公设备::克利尔沃特, 美国::26234.9::9500
+413::三星人寿保险(SAMSUNG LIFE INSURANCE)::Chang-Soo Kim::人寿与健康保险（股份）::首尔, 韩国::26221.7::5284
+414::安富利公司(AVNET)::William J. Amelio::批发：电子、办公设备::凤凰城, 美国::26219.3::17700
+415::诺基亚(NOKIA)::Rajeev Suri::网络、通讯设备::埃斯波, 芬兰::26113.4::102687
+416::Enbridge公司(ENBRIDGE)::Al Monaco::管道运输::卡尔加里, 加拿大::26072.5::7733
+417::西班牙天然气公司(GAS NATURAL FENOSA)::Rafael Villaseca Marco::公用设施::巴塞罗纳, 西班牙::26070.3::17229
+418::澳新银行集团(AUSTRALIA & NEW ZEALAND BANKING GROUP)::Shayne Elliott::银行：商业储蓄::多克兰兹, 澳大利亚::26031.5::46554
+419::爱立信公司(LM ERICSSON)::Börje Ekholm::网络、通讯设备::斯德哥尔摩, 瑞典::26004.4::111464
+420::住友电工(SUMITOMO ELECTRIC INDUSTRIES)::Masayoshi Matsumoto::车辆与零部件::大阪, 日本::25974.8::248330
+421::亿滋国际(MONDELEZ INTERNATIONAL)::Irene B. Rosenfeld::食品：消费产品::诺斯菲尔德,美国::25923.0::90000
+422::英国耆卫保险公司(OLD MUTUAL)::Bruce Hemphill::人寿与健康保险（股份）::伦敦市, 英国::25912.9::68527
+423::日本出光兴产株式会社(IDEMITSU KOSAN)::Takashi Tsukioka::炼油::东京, 日本::25887.6::9139
+424::加拿大丰业银行(BANK OF NOVA SCOTIA)::Brian J. Porter::银行：商业储蓄::多伦多,奥特兰, 加拿大::25817.4::88901
+425::梅西百货(MACY'S)::Jeffrey Gennette::综合商业::辛辛那提, 美国::25778.0::148300
+426::曼福集团(MAPFRE GROUP)::Antonio Huertas Mejías::财产与意外保险（股份）::马德里, 西班牙::25774.5::37020
+427::法国邮政(LA POSTE)::Philippe Wahl::邮件、包裹及货物包装运输::巴黎, 法国::25759.6::240407
+428::Inditex公司(INDITEX)::Pablo Isla Álvarez de Tejera::专业零售::阿尔泰修, 西班牙::25732.9::162450
+429::艾伯维(ABBVIE)::Richard A. Gonzalez::制药::北芝加哥, 美国::25638.0::30000
+430::大同煤矿集团有限责任公司(DATONG COAL MINE GROUP)::Zhang Youxi::采矿、原油生产::大同, 中国::25630.0::162542
+431::乐天百货(LOTTE SHOPPING)::Hee-Tae Kang::综合商业::首尔,韩国::25444.2::26357
+432::英国标准人寿保险公司(STANDARD LIFE)::Keith Skeoch::多元化金融::爱丁伯格, 英国::25278.5::6302
+433::山西焦煤集团有限责任公司(SHANXI COKING COAL GROUP)::Wu Huatai::采矿、原油生产::太原, 中国::25122.5::209817
+434::德科集团(ADECCO GROUP)::Alain Dehaze::雇佣帮助::格拉特布鲁格, 瑞士::25111.5::33000
+435::国际航空集团(INTERNATIONAL AIRLINES GROUP)::Willie  Walsh::航空::哈蒙兹沃思, 英国::24955.6::63387
+436::麦当劳(MCDONALD'S)::Stephen J. Easterbrook::食品：饮食服务业::橡溪镇, 美国::24621.9::375000
+437::日本电气公司(NEC)::Takashi Niino::信息技术服务::东京, 日本::24595.6::107729
+438::杜邦公司(DUPONT)::Edward D. Breen::化学品::威明顿, 美国::24594.0::46000
+439::中国航空油料集团公司(CHINA NATIONAL AVIATION FUEL GROUP)::Zhou Qiang::批发商：多元化::北京, 中国::24588.1::11739
+440::美国诺斯洛普格拉曼公司(NORTHROP GRUMMAN)::Wesley G. Bush::航天与防务::福尔斯彻奇, 美国::24508.0::67000
+441::布鲁克菲尔德资产管理公司(BROOKFIELD ASSET MANAGEMENT)::J. Bruce Flatt::多元化金融::多伦多,奥特兰,加拿大::24411.0::55700
+442::委内瑞拉商业金融服务公司(MERCANTIL SERVICIOS FINANCIEROS)::Gustavo J. Vollmer A.::银行：商业储蓄::加拉加斯, 委内瑞拉::24402.6::8370
+443::SAP公司(SAP)::William R. McDermott::计算机软件::瓦尔多夫, 德国::24397.2::84183
+444::康菲石油公司(CONOCOPHILLIPS)::Ryan M. Lance::采矿、原油生产::洛杉矶, 美国::24360.0::13300
+445::山西阳泉煤业(集团)有限责任公司(YANGQUAN COAL INDUSTRY GROUP)::Zhai Hong::采矿、原油生产::阳泉, 中国::24284.1::146236
+446::达能(DANONE)::Emmanuel Faber::食品：消费产品::巴黎, 法国::24266.7::99187
+447::三星C&T;公司(SAMSUNG C&T;)::Chi-Hun Choi::工程与建筑::首尔, 韩国::24217.3::13898
+448::潞安集团(SHANXI LUAN MINING GROUP)::Li Jinping::采矿、原油生产::长治, 中国::24087.3::95666
+449::雷神公司(RAYTHEON)::Thomas A. Kennedy::航天与防务::沃尔瑟姆, 美国::24069.0::63000
+450::美的集团股份有限公司(MIDEA GROUP)::Fang Hongbo::电子、电气设备::佛山, 中国::24060.4::126418
+451::日本中部电力(CHUBU ELECTRIC POWER)::Satoru Katsuno::公用设施::名古屋,日本::24028.0::30635
+452::BAE系统公司(BAE SYSTEMS)::Charles Woodburn::航天与防务::伦敦市, 英国::24011.2::76000
+453::Tesoro公司(TESORO)::Gregory J. Goff::炼油::圣安东尼奥, 美国::24005.0::6308
+454::中国大唐集团公司(CHINA DATANG)::Chen Jinhang::能源::北京, 中国::23871.0::97091
+455::伟创力公司(FLEX)::Michael M. McNamara::半导体、电子元件::阿姆斯特丹, 新加坡::23862.9::200000
+456::艾睿电子(ARROW ELECTRONICS)::Michael J. Long::批发：电子、办公设备::森特尼尔, 美国::23825.3::18700
+457::贺利氏控股集团(HERAEUS HOLDING)::Jan Rinnert::金属产品::哈瑙, 德国::23793.4::12369
+458::仁宝电脑(COMPAL ELECTRONICS)::Jui-Tsung Chen::计算机、办公设备::台北, 中国::23772.5::64728
+459::阳光金控投资集团有限公司(YANGO FINANCIAL HOLDING)::Lin Tengjiao::多元化金融::福州, 中国::23657.0::10234
+460::高通(QUALCOMM)::Steven M. Mollenkopf::半导体、电子元件::圣地亚哥, 美国::23554.0::30500
+461::阿弗瑞萨控股公司(ALFRESA HOLDINGS)::Taizo Kubo::批发：保健::东京,日本::23550.5::13217
+462::阿里巴巴集团(ALIBABA GROUP HOLDING)::Daniel Zhang::互联网服务和零售::杭州, 中国::23517.3::50097
+463::KOC集团(KOÇ HOLDING)::Levent Çakiroglu::能源::伊斯坦布尔, 土耳其::23456.2::95456
+464::前进保险公司(PROGRESSIVE)::Susan Patricia  Griffith::财产与意外保险（股份）::梅菲尔德村, 美国::23441.4::31721
+465::杜克能源(DUKE ENERGY)::Lynn J. Good::公用设施::夏洛特市, 美国::23369.0::28798
+466::米其林公司(MICHELIN)::Jean-Dominique Senard::车辆与零部件::克莱蒙费朗, 法国::23119.9::105654
+467::碧桂园控股有限公司(COUNTRY GARDEN HOLDINGS)::Mo Bin::房地产::佛山, 中国::23043.7::94450
+468::喜力控股公司(HEINEKEN HOLDING)::Jean-François van Boxmeer::饮料::阿姆斯特丹, 荷兰::23043.6::73525
+469::ENTERPRISE PRODUCTS PARTNERS公司(ENTERPRISE PRODUCTS PARTNERS)::A. James Teague::管道运输::洛杉矶, 美国::23022.3::6800
+470::阿斯利康(ASTRAZENECA)::Pascal Soriot::制药::剑桥, 英国::23002.0::59700
+471::安进(AMGEN)::Robert A. Bradway::制药::千橡市,美国::22991.0::19200
+472::荷兰合作银行(RABOBANK GROUP)::Wiebe Draijer::银行：商业储蓄::乌得勒支, 荷兰::22956.2::40029
+473::Altice公司(ALTICE)::Michel Combes::电信::阿姆斯特丹, 荷兰::22952.6::49732
+474::Onex公司(ONEX)::Gerald W. Schwartz::半导体、电子元件::多伦多,奥特兰, 加拿大::22943.0::161000
+475::US Foods Holding公司(US FOODS HOLDING)::Pietro Satriano::批发：食品::罗斯芒特, 美国::22918.8::25000
+476::山西晋城无烟煤矿业集团有限责任公司(SHANXI JINCHENG ANTHRACITE COAL MINING GROUP)::He Tiancai::采矿、原油生产::晋城, 中国::22874.6::135691
+477::任仕达控股公司(RANDSTAD HOLDING)::Jacques van den Broek::雇佣帮助::迪门, 荷兰::22873.4::32280
+478::腾讯控股有限公司(TENCENT HOLDINGS)::Pony Ma::互联网服务和零售::深圳, 中国::22870.7::38775
+479::LG DISPLAY公司(LG DISPLAY)::Sang-Beom Han::电子、电气设备::首尔, 韩国::22839.7::49094
+480::Emirates Group公司(EMIRATES GROUP)::Sheikh Ahmed bin Saeed Al Maktoum::航空::迪拜, 阿拉伯联合酋长国::22798.9::64768
+481::美国合众银行(U.S. BANCORP)::Andrew J. Cecere::银行：商业储蓄::明尼阿波利斯,美国::22744.0::71191
+482::H&M;公司(H & M HENNES & MAURITZ)::Karl-Johan Persson::专业零售::斯德哥尔摩, 瑞典::22617.8::114586
+483::美国家庭人寿保险公司(AFLAC)::Daniel P. Amos::人寿与健康保险（股份）::哥伦布, 美国::22559.0::10212
+484::索迪斯(SODEXO)::Michel Landel::食品：饮食服务业::穆里诺, 法国::22476.6::425594
+485::苏宁云商集团(SUNING COMMERCE GROUP)::Ren Jun::专业零售::南京, 中国::22366.1::60354
+486::GS加德士(GS CALTEX)::Jin-Soo Huh::炼油::首尔, 韩国::22207.3::2949
+487::Ultrapar控股公司(ULTRAPAR HOLDINGS)::Thilo Mannhardt::能源::圣保罗, 巴西::22166.8::15173
+488::厦门建发集团有限公司(XIAMEN C&D;)::Huang Wenzhou::贸易::厦门, 中国::22145.0::18381
+489::西尔斯控股(SEARS HOLDINGS)::Edward S. Lampert::综合商业::霍夫曼特斯, 美国::22138.0::140000
+490::中国通用技术(集团)控股有限责任公司(CHINA GENERAL TECHNOLOGY)::Xu Xianping::工程与建筑::北京, 中国::22113.1::38589
+491::英国国家电网(NATIONAL GRID)::John Pettigrew::公用设施::伦敦市,英国::22035.8::22132
+492::Dollar General公司(DOLLAR GENERAL)::Todd J. Vasos::专业零售::古德利茨维尔, 美国::21986.6::121000
+493::意大利电信(TELECOM ITALIA)::Flavio Cattaneo::电信::米兰, 意大利::21941.1::61227
+494::厦门国贸控股集团有限公司(XIAMEN ITG HOLDING GROUP)::Xu Xiaoxi::贸易::厦门, 中国::21929.6::18454
+495::新疆广汇实业投资（集团）有限责任公司(XINJIANG GUANGHUI INDUSTRY INVESTMENT)::Shang Jiqiang::贸易::乌鲁木齐, 中国::21919.3::65616
+496::梯瓦制药工业公司(TEVA PHARMACEUTICAL INDUSTRIES)::Yitzhak Peterburg::制药::佩克提克瓦, 以色列::21903.0::56960
+497::新华人寿保险股份有限公司(NEW CHINA LIFE INSURANCE)::Wan Feng::人寿与健康保险（股份）::北京, 中国::21795.7::54378
+498::威廉莫里森超市连锁公司(WM. MORRISON SUPERMARKETS)::David T. Potts::食品店和杂货店::布拉德福, 英国::21741.4::77210
+499::途易(TUI)::Friedrich Joussen::旅游服务::汉诺威, 德国::21655.4::66779
+500::AutoNation公司(AUTONATION)::Michael J. Jackson::专业零售::劳德尔堡, 美国::21609.0::26000
